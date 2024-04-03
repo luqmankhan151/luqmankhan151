@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luqman Khanzada</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 
 - 💬 Ask me about **Node js, Express js, Nest js, React js, Java Spring Boot**
 
