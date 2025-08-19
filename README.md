@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luqman Khanzada</h1>
 <h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 
-- 💬 Ask me about **Node js, Express js, Nest js, React js, React Native, Expo, Java Spring Boot, Salesforce Core, Salesforce Order Management, Salesforce Omni-Channel Inventory**
+- 💬 Ask me about **Node js, Express js, Nest js, React js, React Native, Expo, Java Spring Boot, Salesforce Core, Salesforce Order Management, Salesforce Omni Channel Inventory**
 
 - 📫 How to reach me **codewithluqman@gmail.com**
 
